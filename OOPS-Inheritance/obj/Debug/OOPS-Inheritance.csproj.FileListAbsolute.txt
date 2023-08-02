@@ -1,0 +1,3 @@
+D:\Assisted project\oops structs\OOPS-Inheritance\obj\Debug\OOPS-Inheritance.csproj.AssemblyReference.cache
+D:\Assisted project\oops structs\OOPS-Inheritance\obj\Debug\OOPS-Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\oops structs\OOPS-Inheritance\obj\Debug\OOPS-Inheritance.csproj.CoreCompileInputs.cache

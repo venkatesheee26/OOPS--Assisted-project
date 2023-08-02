@@ -1,0 +1,3 @@
+D:\Assisted project\oops structs\Inteerface\obj\Debug\Inteerface.csproj.AssemblyReference.cache
+D:\Assisted project\oops structs\Inteerface\obj\Debug\Inteerface.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\oops structs\Inteerface\obj\Debug\Inteerface.csproj.CoreCompileInputs.cache

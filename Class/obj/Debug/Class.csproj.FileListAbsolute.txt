@@ -1,0 +1,8 @@
+D:\Assisted project\oops structs\Class\bin\Debug\Class.exe.config
+D:\Assisted project\oops structs\Class\bin\Debug\Class.exe
+D:\Assisted project\oops structs\Class\bin\Debug\Class.pdb
+D:\Assisted project\oops structs\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\Assisted project\oops structs\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\oops structs\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\Assisted project\oops structs\Class\obj\Debug\Class.exe
+D:\Assisted project\oops structs\Class\obj\Debug\Class.pdb

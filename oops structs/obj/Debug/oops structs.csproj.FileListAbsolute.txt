@@ -1,0 +1,8 @@
+D:\Assisted project\oops structs\oops structs\bin\Debug\oops structs.exe.config
+D:\Assisted project\oops structs\oops structs\bin\Debug\oops structs.exe
+D:\Assisted project\oops structs\oops structs\bin\Debug\oops structs.pdb
+D:\Assisted project\oops structs\oops structs\obj\Debug\oops structs.csproj.AssemblyReference.cache
+D:\Assisted project\oops structs\oops structs\obj\Debug\oops structs.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\oops structs\oops structs\obj\Debug\oops structs.csproj.CoreCompileInputs.cache
+D:\Assisted project\oops structs\oops structs\obj\Debug\oops structs.exe
+D:\Assisted project\oops structs\oops structs\obj\Debug\oops structs.pdb
